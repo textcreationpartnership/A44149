@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief collection of certain instances of Holy Scripture, and ancient laws of England concurring against persecution, oppression and injustice, recomended to the serious consideration of all sincere friends to the King and kingdom / by William Holgate.</title>
+            <author>Holgate, William, fl. 1683-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44149</idno>
+            <idno type="STC">Wing H2415</idno>
+            <idno type="STC">ESTC R858</idno>
+            <idno type="EEBO-CITATION">13065065</idno>
+            <idno type="OCLC">ocm 13065065</idno>
+            <idno type="VID">97064</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97064)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief collection of certain instances of Holy Scripture, and ancient laws of England concurring against persecution, oppression and injustice, recomended to the serious consideration of all sincere friends to the King and kingdom / by William Holgate.</title>
+                  <author>Holgate, William, fl. 1683-1686.</author>
+               </titleStmt>
+               <extent>17 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of religion --  England.</term>
+               <term>Persecution --  England.</term>
+               <term>Law --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97064:1"/>
+            <p>A BRIEF COLLECTION Of Certain Inſtances of Holy Scripture, AND Ancient Laws of England, Concurring againſt <hi>Perſecution, Oppreſſion</hi> And <hi>Injuſtice.</hi>
+            </p>
+            <p>Recomended to the ſerious <hi>Conſideration</hi> of all Sincere <hi>Friends</hi> to the King and KINGDOM.</p>
+            <p>By <hi>William Holgate.</hi>
+            </p>
+            <p>Printed in the Year 1686.</p>
+         </div>
+         <div type="Scriptural_citations">
+            <pb facs="tcp:97064:2"/>
+            <pb n="3" facs="tcp:97064:2"/>
+            <q>
+               <p>C<g ref="char:V">Ʋ</g>rſe not the <hi>King,</hi> no not in thy Thoughts, and Curſe not the <hi>Rich,</hi> in thy Bed-Chamber; for a Bird of the air ſhall carry the voice, and that which hath wings ſhall tell the matter,</p>
+               <bibl>
+                  <hi>Eccleſ. 10.20.</hi>
+               </bibl>
+               <p>Thus ſaith the Lord God, let it ſuffice you O Princes of <hi>Iſrael,</hi> re<g ref="char:EOLhyphen"/>move Violence and Spoil, and execute Judgment and Juſtice, take away your Exactions from my People, ſaith the Lord God.</p>
+               <bibl>
+                  <hi>Ezek. 45.9.</hi>
+               </bibl>
+               <p>This is the <hi>City</hi> to be viſited, ſhee is wholly oppreſsion in the midſt of her.</p>
+               <bibl>
+                  <hi>Jer. 6.6.</hi>
+               </bibl>
+               <p>He that turneth away his Ear from hearing the Law, even his Pray<g ref="char:EOLhyphen"/>ers ſhall be abomination.</p>
+               <bibl>
+                  <hi>Pro. 28.9.</hi>
+               </bibl>
+               <p>O that thy were wiſe, that they underſtood this, that they would re<g ref="char:EOLhyphen"/>member their latter end.</p>
+               <bibl>
+                  <hi>Deut. 32.29.</hi>
+               </bibl>
+               <p>Run ye to and fro through the ſtreets of <hi>Jeruſalem,</hi> and ſee now and know, and ſeek in the broad places thereof, if ye can find a <hi>Man,</hi> if there be any that executeth Judgusent, that ſeeketh the Truth, and I will pardon it.</p>
+               <bibl>
+                  <hi>Jer. 5.1.</hi>
+               </bibl>
+               <p>Bleſſed are they which are perſecuted for Righteouſneſs ſake, for theirs is the Kingdom of Heaven.</p>
+               <bibl>
+                  <hi>Math. 5.10.</hi>
+               </bibl>
+               <p>Who is a wiſe man and endued with knowledge amongst you, let him ſhew out of a good-converſation his works with meekneſs of wiſ<g ref="char:EOLhyphen"/>dom.</p>
+               <bibl>
+                  <hi>James 3.13.</hi>
+               </bibl>
+               <p>If the Foundations be destroyed, what can the Righteous do?</p>
+               <bibl>
+                  <hi>Pſal. 11.3.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:97064:3"/>
+            <lg>
+               <l>The Cretion <hi>Radamanthus Virgil</hi> ranks,</l>
+               <l>Amongſt Infernal Judges for his pranks,</l>
+               <l>He firſt Condemned, then Try'd, and by his aw,</l>
+               <l>Subſerviant to his will, did make the Law.</l>
+            </lg>
+            <lg>
+               <l>Who makes his will his Rule, and Power his Law,</l>
+               <l>Doth plainly ſhew, Gods will he doth not know.</l>
+            </lg>
+            <lg>
+               <l>He that convicts upon an Information,</l>
+               <l>Not having heard the accuſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d's Vindication,</l>
+               <l>Percliance may hit the mark, yet is his way</l>
+               <l>Very unjuſt, as all good Laws do ſay.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:97064:3"/>
+            <head>A Brief Collection of Certain Inſtances of Holy Scripture, and Ancient Laws of England, concurring againſt Perſecution, Oppreſſion and Injuſtice, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <p>I will get me unto the great men, and will ſpeak unto them, for they have known the Way of the Lord, and the Judgment of their God.</p>
+                  <bibl>
+                     <hi>Jer. 5.5.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>THat the great men of <hi>England</hi> have in ſome degree formerly known the way of the Lord, witneſs ſome of the antient and fundamental <hi>Laws</hi> of <hi>England,</hi> and the <hi>Maxims</hi> upon which they are grounded.</p>
+            <p>Firſt that Book called <hi>Doctor</hi> and <hi>Student, ch.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>p.</hi> 4. declares That the main and principal Foundation of the <hi>Law of England,</hi> is the <hi>Law of God,</hi> and that Law is written in the heart of man, which is, man created in the Image of God, and this Law is always righteous, ſtir<g ref="char:EOLhyphen"/>ring up the man to do that which is Good, and abhor that which is Evil; and therefore (ſaith the Book) againſt this Law, Preſcription, Statute, Cuſtom may not prevail, and if any be brought againſt it, they are void, and againſt Juſtice, &amp;c.</p>
+            <p>And <hi>pag.</hi> 12. <hi>chap.</hi> 4. Every good Law is ordained for the health of the Soul, and to the fulfilling of the Laws of God, and to induce the people to fly evil deſires, and to do good works. Alſo the <hi>Cardinal</hi> of <hi>Cambrey</hi> writes, that every <hi>Law of Man,</hi> muſt be conſonant to the <hi>Law of God;</hi> and therefore the <hi>Law of Princes,</hi> the <hi>Commandments of Pre<g ref="char:EOLhyphen"/>lates,</hi> the <hi>Statutes of Commonalities,</hi> nor the <hi>Ordinance of the Church</hi> is not Righteous, nor Obligatory, except it be conſonant to the <hi>Law of God.</hi>
+            </p>
+            <p>And of ſuch a Law of man that is conſonant to the Law of God, it appeareth who hath right to Lands and Goods, and who hath not, for whatſoever a man hath by ſuch Laws of man, he hath Righteouſly, and whatſoever he hath againſt (or contrary) to ſuch Laws is unrighteouſly (and unlawfully) had.</p>
+            <p>And the intent of a Law-Maker, is to make the people Good, and to bring them to Vertue; and altho I have ſomewhat in general ſhew<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:97064:4"/>thee whereupon the <hi>Law of England</hi> is grounded (for of neceſſity) it muſt be grounded of theſe Laws (that is to ſay) of the <hi>Law Eter<g ref="char:EOLhyphen"/>nal,</hi> of the <hi>Law of Reaſon,</hi> and of the <hi>Law of God, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>But this ſhall be the Covenant, that I will make with the houſe of Iſrael, after thoſe days, ſaith the Lord; I will put my Laws in their inward parts, and write them in their hearts, and I will be their God and they ſhall be my People,</hi> Jer 31.33.</p>
+            <p>With this agrees the Prophet of the Lord, <hi>Micah.</hi> 6.8. <hi>He hath ſhew<g ref="char:EOLhyphen"/>ed thee, O man, what is good, and what doth the Lord require of thee, but to do juſtly, and to love mercy, and to walk humbly with thy God.</hi>
+            </p>
+            <p>
+               <hi>Stat.</hi> 20. <hi>Ed.</hi> 3.1. The Kings Juſtices ſhall do right to all, without reſpect of Perſons, notwithſtanding the Kings Letters or Command to the contrary, and if any ſuch be, they ſhall acquaint the King and his Council therewith, they ſhall take no fee but of the King, nor give Council where he is a party, and if they do amiſs they ſhall be at the Kings will in Body, Goods and Lands.</p>
+            <p>
+               <hi>O houſe of</hi> David, <hi>thus ſaith the Lord, Excecute Judgment in the Morn<g ref="char:EOLhyphen"/>ing, and deliver him that is ſpoiled out of the hand of the Oppreſſor, leaſt my fury go out like fire, and burn that none can quench it, becauſe of the evil of your doings,</hi> Jer. 21.12.</p>
+            <p>
+               <hi>Thus ſaith the Lord, Execute ye Judgment and Righteouſneſs, and deliver the ſpoiled out of the hand of the Oppreſſor, and do no wrong, do no violence to the Stranger, the Fatherleſs, nor the Widow, neither ſhed innocent blood,</hi> Jer. 22.3.</p>
+            <p>Then ſhall the King ſay unto them on his right hand, Come ye bleſſed of my Father, <hi>&amp;c. Matt.</hi> 25.34. and <hi>verſ.</hi> 40. Verily I ſay unto you, in as much as ye have done it unto one of the leaſt of theſe my Bre<g ref="char:EOLhyphen"/>thren, ye have done it unto me.</p>
+            <p>
+               <hi>Magna Charta</hi> 29.9. <hi>H.</hi> 3. No free man ſhall be taken, impriſoned, diſſeiſed, out lawed, exciled, or other ways deſtroyed, or condem<g ref="char:EOLhyphen"/>ned without Tryal by his Peers, or the Law, Juſtice or Right ſhall not be ſold, denied or deferred to any, &amp;c.</p>
+            <p>Thou ſhalt not wreſt the judgment of thy poor in his Cauſe. Keep thee far from a falſe matter, and the Innocent and Righteous ſlay thou not, for I will not juſtifie the Wicked, Exod. 23.6, 7.</p>
+            <p>And I charged you Judges at that time, ſaying, Hear the Cauſes be<g ref="char:EOLhyphen"/>tween your Brethren, and judge righteouſly between every Man and his Brother, and the Stranger that is with him, <hi>Deut.</hi> 1.16.</p>
+            <p>Ye ſhall not reſpect perſons in judgement, but ye ſhall hear the
+<pb n="7" facs="tcp:97064:4"/>ſmall as well as the great, you ſhall not be afraid of the face of man, for the judgment is Gods, <hi>verſe</hi> 17.</p>
+            <p>And if ye call on the Father, who without reſpect of perſons, judg<g ref="char:EOLhyphen"/>eth every one according to his works, paſs the time of your ſojourning here in fear, 1 <hi>Peter</hi> 1.17.</p>
+            <p>
+               <hi>Stat.</hi> 5. <hi>Ed.</hi> 3.9. None ſhall be atteached upon any accuſation, nor fore-judged of Life or Limb, nor his Lands or Tennements, Goods or Chattels ſeiſed into the Kings hands, againſt the form of the great Charter, and the Law of the Land.</p>
+            <p>
+               <hi>Stat.</hi> 28. <hi>Ed.</hi> 3.3. None ſhall be put from his Lands or Tenne<g ref="char:EOLhyphen"/>ment, Impriſoned, Diſinherited, or put to Death without being brought to anſwer by due proceſs of Law,</p>
+            <p>And <hi>Nicedemus</hi> ſaid, doth our Law judge any man before it hear him, and know what he doth, <hi>John</hi> 7.51.</p>
+            <p>
+               <hi>Acts</hi> 25.5, 7, 8, 10, 16. <hi>Feſtus</hi> told the <hi>Jews</hi> that it was contrary to the <hi>Roman</hi> Laws to condemn any man, before he that was accuſed, had the accuſers face to face, and had licenſe to anſwer for himſelf con<g ref="char:EOLhyphen"/>cerning the Crime laid againſt him.</p>
+            <p>One Witneſs ſhall not riſe up againſt a man for any Iniquity, or for any Sin, in any Sin that he ſinneth: At the mouth of two Witneſſes, or at the mouth of three Witneſſes, ſhall the matter be eſtabliſhed, <hi>Deut.</hi> 19.15.</p>
+            <p>In the mouth of two or three Witneſſes, everword may be eſtabli<g ref="char:EOLhyphen"/>ſhed, <hi>Matt.</hi> 18.16.</p>
+            <p>
+               <hi>Stat.</hi> 4. <hi>Hen.</hi> 7.12. The King commandeth all Juſtices of Peace, diligently to exerciſe their Office, to the end, that his people by that means living in peace, and enjoying their own Husbandry may flouriſh, he alſo chargeth all both Poor and Rich that ſhall ſuffer any grievance from others (wherein a Juſtice of Peace may intermedle) that they forth with make complaint thereof to the next Juſtice of Peace, &amp;c.</p>
+            <p>Open thy Mouth for the Dumb, in the caſe of all ſuch as are ap<g ref="char:EOLhyphen"/>pointed to Deſtruction. Open thy Mouth judge righteouſly and plead the Cauſe of the Poor and Needy, <hi>Prov.</hi> 31.8, 9.</p>
+            <p>Bleſſed are the Peace makers for they ſhall be called the Children of God, <hi>Matt.</hi> 5.9. Then Diſturbers and falſe accuſing Deſtroyers of their peaceable Neighbours, ſhall not be ſo called.</p>
+            <p>
+               <hi>Magna Charta, chap.</hi> 14. 9 <hi>Hen.</hi> 3. A free man ſhall not be amer<g ref="char:EOLhyphen"/>ced for a ſmall fault, but according to the manner thereof, and for a
+<pb n="8" facs="tcp:97064:5"/>great offence according to the quantity thereof, ſaving to him his conteniment, and Marchant, ſaving his Merchandize, &amp;c.</p>
+            <p>The elemency of Engliſh Natures hath reſolved into an Axiom, that Penal Laws are to be taken <hi>(in Mitiori Senſu)</hi> in the more mild and favourable Sence, and that Amerciaments ſhould have <hi>(Miſericordia)</hi> mercy in them.</p>
+            <p>
+               <hi>Horn Mirror of Juſt. title Abuſes of Common Law,</hi> It is an abuſe to judge a man to divers Puniſhments for one Treſpaſs, as to a Corporal Puniſhment, and to a Ranſom; ſince Ranſom is but a redemption from corporal puniſhment by a Fine.</p>
+            <p>It is the Kings intereſt to have his Subjects pacified; force is an ene<g ref="char:EOLhyphen"/>my to the Law.</p>
+            <p>
+               <hi>Magna Charta chap.</hi> 14. <hi>Mirrour tit. Diſſeirin &amp; Reddiſſeirin, chap.</hi> 2. §. 25. If one Diſtrain me ſo outragiouſly that I cannot Manure, Plow, or uſe my Land duly, in which caſe it makes one an outragious Diſtrainer, the reaſon given by <hi>Chief Juſtice Cook</hi> is, for Trade and Traffick is the livelihood, and the life of the Common-Wealth, where<g ref="char:EOLhyphen"/>in the King, and every Subject hath an Intereſt, whence it follows, that they who deſtroy Trade, by their exceſſive diſtreſſes and ſpoil on the Subjects Goods and Merchandize, &amp;c. do act againſt the Intereſt both of King and Kingdom.</p>
+            <p>Wo is pronounced by the Prophet againſt them that put far from them the evil day, &amp; cauſes the date of violence to come near, <hi>Amos</hi> 6.5.</p>
+            <p>He that hath not oppreſſed any, but hath reſtored to the Debtor his Pledge, hath ſpoiled none by Violence, hath given his Bread to the Hungry, and hath covered the Naked with a Garment, hath executed true Judgement betwixt man and man: He is juſt, he ſhall ſurely live ſaith the Lord, <hi>Ezekiel</hi> 18.7, 8, 9.</p>
+            <p>Do Violence to no man, neither accuſe any falſely, and be content with your wages, <hi>Luke</hi> 3.14.</p>
+            <p>The Prophet having a ſight and ſence of Goſpel times, ſaith, waſt<g ref="char:EOLhyphen"/>ing, violence, and deſtroying ſhall not bear rule, but be abhored of all that ſhall know the Lord, <hi>Iſa.</hi> 11.</p>
+            <p>The Lamb and the Wolf ſhall feed together, and the Lyon ſhall eat ſtraw like the Bullock, and duſt ſhall be the Serpents food, they ſhall not hurt nor deſtroy in all my holy Mountain, ſaith the Lord, <hi>Iſa.</hi> 65.25.</p>
+            <p>If ye fulfill the Royal Law, according to the Scriptures, thou ſhalt love thy Neighbour as thy ſelf, ye do well, <hi>James</hi> 2.8.</p>
+            <pb n="9" facs="tcp:97064:5"/>
+            <p>It is very apparent, that the Fundamental Laws of <hi>England</hi> are con<g ref="char:EOLhyphen"/>ſonant with the Royal Law of God, written in the heart of man by his holy Spirit, ſo let all who have the leaſt ſpark of reaſon left in them Judge, whether it is not high preſumption againſt God and his unlimit<g ref="char:EOLhyphen"/>ted Prerogative, &amp; Law written in the hearts of his people (<hi>Jer.</hi> 31.33.) to ſet up mans Law above it, and force the execution thereof againſt it. Oh, that all that are in Authority would Read, Meditate and ſeriouſly Conſider the Teſtimony recorded <hi>Iſaiah</hi> 59. that ſo they may never cauſe the cry of Oppreſſion to be laid at their Doors.</p>
+            <p>I could give a large account out of <hi>Cook, Shepherd, Forteſcue, Wat<g ref="char:EOLhyphen"/>terhouſe, Keeble</hi> and others, who have written in the praiſe of Engliſh Laws, and of the great care the makers thereof had, for the preſerva<g ref="char:EOLhyphen"/>tion of Husbandry and Trade, and that ſuch as were imployed there in might be preſerved from Rapin, Wrong, or other Injuries, or be vext or injuriouſly puniſhed, by Ill, Looſe, Vicious, Coveteous, Poor and Beggerly Perſons; for the Law's Wiſdom is apparent, in that it has excluded neceſſitous perſons, and ſuch as have accuſtomed themſelves to ſhift and ſhark from all Credit as Witneſſes, and alſo all ſuch per<g ref="char:EOLhyphen"/>ſons as may or doth expect any reward or profit by the recovery had by their Teſtimony.</p>
+            <p>I do not read of any Statute, Law or Decree, that is in force in <hi>England,</hi> that appoints a puniſhment for any man or men, that worſhips God in Spirit and in Truth; neither doth any Engliſh Law (I know of) appoint a puniſhment for any that meets together upon a Religi<g ref="char:EOLhyphen"/>ous accompt ſimply and barely; but puniſheth all ſuch as makes Reli<g ref="char:EOLhyphen"/>gion a Cloak for their evil Intentions, who meeting obſcurely, ſome<g ref="char:EOLhyphen"/>thing that is evil in it ſelf, either in words or actions at ſuch Meet<g ref="char:EOLhyphen"/>ings being ſaid or done.</p>
+            <p>For the <hi>Liturgy</hi> of the <hi>Church of England,</hi> hath this precept, That it is very meet, right and our bounden duty, that we ſhould at all times and in all places give thanks unto thee, O Lord, Holy Father, Almighty Everlaſting God, &amp;c.</p>
+            <p>I will therefore that men pray every where, lifting up holy hands without wrath and doubting, 1 <hi>Tim.</hi> 2.8.</p>
+            <p>Upon the firſt day of the week, when the Diſciples were come to<g ref="char:EOLhyphen"/>gether to break Bread, <hi>Paul</hi> Preached to them, ready to depart on the morow, and continued his ſpeech until midnight: And there were many lights in the upper Chamber where they were gathered together, <hi>Acts</hi> 20.7, 8.</p>
+            <pb n="10" facs="tcp:97064:6"/>
+            <p>And <hi>Paul</hi> welt two whole years in his own hired houſe, and recei<g ref="char:EOLhyphen"/>ved all that came in unto him: Preaching the Kingdom of God, and teaching thoſe things which concerning the Lord Jeſus Chriſt, with all Confidence, no man forbiding him, <hi>Acts</hi> 28.30, 31.</p>
+            <p>On <hi>All Saints day Mat.</hi> 5. to the 13 <hi>verſ.</hi> is appointed to be read; And ſeeing the multitudes he went up into a Mountain, and when he was ſet his Diſeples came unto him, And he opened his Mouth and taught them, &amp;c.</p>
+            <p>And the people were aſtoniſhed at his Doctrine: For he taught them as one that had Authority, and not as the Scribes, <hi>Mat.</hi> 7.28, 29.</p>
+            <p>Seeing then that the Antient Fundamental Laws and Statutes of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the Expoſition made upon them, by the great Judges, &amp; men learn<g ref="char:EOLhyphen"/>ed in the Laws of this Land, in praiſe of them, the confirmation whereof great Judges, in our own days allow of the Teſtimony of holy Scriptures confirms, the <hi>Liturgy</hi> of the <hi>Church of England</hi> allows, and alſo enjoyns; who can think that Perſons affecting the Law, true Friends to the King and Kingdom, ſhould ever be ſo far miſtaken as to ſtrength<g ref="char:EOLhyphen"/>en the hands of them that Proſecute, Puniſh, Perſeute and Deſtroy, ſober, peaceable upright hearted people (reprochfully called Qua<g ref="char:EOLhyphen"/>kers) againſt whom nothing that is evil in it ſelf can juſtly be proved, or ever hath been proved, but only concerning the worſhip of their God.</p>
+            <p>O ye great men of <hi>England,</hi> read <hi>Daniel</hi>'s Cauſe of being Perſecuted, recorded <hi>Daniel</hi> 6.5. Then ſaid theſe men, we ſhall not find any oc<g ref="char:EOLhyphen"/>caſion againſt this <hi>Daniel,</hi> except we find it againſt him, concerning the Law of his God; the whole Chapter is worth your reading, and your conſideration. As alſo the record of <hi>Eſther</hi> concerning <hi>Hamans</hi> haugh<g ref="char:EOLhyphen"/>tineſs, who becauſe <hi>Mordicai</hi> the <hi>Jew</hi> did not bow unto him, nor reve<g ref="char:EOLhyphen"/>rence him as he expected, ſought occaſion to deſtroy him, and all the Jews that were in the Kingdom of <hi>Ahaſucrus,</hi> promiſing to bring ten thouſand talents of Silver into the Kings Treaſuries.</p>
+            <p>Where <hi>Firſt,</hi> Let it be obſerved, as well as it is recorded, that <hi>Mordicai</hi> (though a Jew, and his and their Laws (as to Religion) were diverſe from all people of <hi>Media</hi> and <hi>Perſia</hi>) yet he was admitted to ſit in the Kings Gate, having diſcovered the treaſonnable intent of <hi>Bigtan</hi> and <hi>Tereſh,</hi> two of the Kings Chamberlains, <hi>Eſther</hi> 2.21.</p>
+            <p>
+               <hi>Secondly,</hi> the regard <hi>Mordecai</hi> had of Gods Honour and Command<g ref="char:EOLhyphen"/>ment, not to give flattering titles, or accept any mans perſon,
+<pb n="11" facs="tcp:97064:6"/>
+               <hi>Job</hi> 32.21, 22. Therefore did not <hi>Mordecai</hi> bow unto <hi>Haman,</hi> nor do him ſuch reverence as he expected, <hi>Eſther</hi> 3.2.</p>
+            <p>
+               <hi>Thirdly,</hi> The Envy, Wrath and evil Intent that aroſe in <hi>Haman</hi> a<g ref="char:EOLhyphen"/>againſt <hi>Mordecai,</hi> and the reaſon of it, as in <hi>verſe</hi> 5.</p>
+            <p>
+               <hi>Fourthly,</hi> The way and method he took to accompliſh and avenge himſelf of him, <hi>verſe</hi> 8. He informed the King, ſaying, There is a certain people ſcattered abroad, and diſperſed among the people in all the Provinces of thy Kingdom, and their Laws are diverſe from all people, neither keep they the King's Laws, therefore it is not for the King's profit to ſuffer them (the margin hath it) it is not meet or e<g ref="char:EOLhyphen"/>qual to ſuffer them, <hi>verſe</hi> 9. If it pleaſe the King let it be written, that they may be deſtroyed, and I will pay ten thouſand talents of Silver, to the hands of thoſe that ſhall have the charge of the buſineſs, to bring it into the Kings Treaſuries.</p>
+            <p>
+               <hi>Fifthly, Mordecai</hi>'s behaviour upon knowledge of the Kings decree, for his and the Jews Deſtruction, <hi>Eſther</hi> 4.1. He rent his Clothes, and put on Sackcloth and wept bitterly. Mark, He did not plot or conſpire Treaſon, neither did any other of the Jews that were in the King's Provinces meet together to plot and conſpire Treaſon, but <hi>verſe</hi> 3. In every Province whitherſoever the Kings Commandment, and his Decree came, there was great Mourning amongſt the Jews, and Faſting, and Weeping, and Wailing, and many lay in Sackcloth and Aſhes; mark, they did not meet to do any evil againſt the King, his Crown or Dignity, though rendered and accounted Seditious.</p>
+            <p>
+               <hi>Sixthly,</hi> The way the Jews took for their help, and to prevent the Decree againſt them, They gathered all the Jews that were preſent in <hi>Shuſhan</hi> together, to Faſt and Pray and patiently waited the Lord's will concerning them, <hi>Eſther</hi> 4.6.</p>
+            <p>
+               <hi>Seventhly,</hi> How much the Kings damage would have been by ſo cruel and outragious a work, as the deſtroying of a great number of Families of the Jews, which were ſcattered abroad through the hun<g ref="char:EOLhyphen"/>dred twenty and ſeven Provinces of his Kingdom, who were induſtri<g ref="char:EOLhyphen"/>ous people. And it is a certain Truth that the Glory of a Prince is in the multitude of his People, not idle loytering Beggers, or prophane ſpend-thrift Informers, but men of induſtry and diligence, as the Jews were: But alas, who, that are truly conſcientiouſly Religious can eſcape, ſeeing their conſcientious meeting together to pray unto God, and worſhipping him, is made ſo great a crime, as to forfeit the fruits of their Induſtry and Diligence.</p>
+            <pb n="12" facs="tcp:97064:7"/>
+            <p>
+               <hi>Eightly,</hi> Read the juſt judgment of God upon <hi>Haman</hi> and his Family, with his abetters (who giving the King knowledge of the great da<g ref="char:EOLhyphen"/>mage that would enſue to his Kingdom, by <hi>Haman</hi>'s wicked deviſe, which he had deviſed againſt the Jews, turned the heart of the King, ſo that he cauſed the evil <hi>Haman</hi> intended, againſt <hi>Mordecai</hi> and the Jews, to fall upon his own head, <hi>Eſther</hi> 9.25.</p>
+            <p>
+               <hi>Ninthly,</hi> The Lord's good will to his people, and the peace and tranquility of the King and Kingdom, when the wicked Counſeller was removed from the King, <hi>Eſther</hi> 10.2.</p>
+            <p>Take away the wicked from before the King, and his Throne ſhall be eſtabliſhed in Righteouſneſs, <hi>Prov.</hi> 25.5.</p>
+            <p>But the wicked are like the troubled Sea, when it cannot reſt whoſe waters caſt up mire and dirt, <hi>Iſa.</hi> 57.20.</p>
+            <p>Scripture records <hi>Haman</hi> and his Counſel wicked, How then ſhall any in this day, who are found doing things of the ſame nature be reckoned otherwiſe?</p>
+            <p>Therefore, O ye great men of <hi>England,</hi> if you love the King, and tender your own Souls good, your Childrens and Families happineſs after ye, labour to put an end to thoſe Laws, by which a great num<g ref="char:EOLhyphen"/>ber of induſtrious and laborious innocent peaceable people ſuffer, and that near to the utter ruin of many of them and their Families; for be aſſured that the ſums of money which (by ſuch proſecution) comes into the King's Treaſuries, will not countervail the King's damage, nor anſwer the gain that would come to the King by their lawful Imployments and Trades.</p>
+            <p>I obſerve in that excellent Declaration of King <hi>Charles</hi> 2. dated <hi>December</hi> 26. 1662. He declares his wonderful Reſtoration without the leaſt blood-ſhed, by the military ſword, and expreſſeth his Cle<g ref="char:EOLhyphen"/>mency, or the Clemency of his Nature towards conſcious perſons, re<g ref="char:EOLhyphen"/>flecting upon ſuch as by words or practiſe renders him otherwiſe, and accounts them wicked and malicious, yea the moſt dangerous Enemies of his Crown, and of the peace and happineſs of the Nation.</p>
+            <p>Conſiderations are to be had to the perſons of men, and to the Laws of Charity more then to the triumping in any opinion, for whatſoever is againſt the foundation of Faith, or contrary to good Life, or de<g ref="char:EOLhyphen"/>ſtructive to humane Society, ought not to be tollerated; mark, then no wicked Informers, or ſuch who have, or will ſwear that people, peaceably meet together to worſhip God are Riotters.</p>
+            <p>And the experience which <hi>Chriſtendom</hi> had in theſe laſt Ages is
+<pb n="13" facs="tcp:97064:7"/>argument enough, that tolleration of differing Opinions is ſo far from diſturbing the publick peace, or deſtroying the intereſt of Princes or people, that it doth advantage the publick, it ſecures the peace, becauſe, there is not ſo much as the pretence of Religion left to ſuch perſons to to contend for, it being already indulged to them, and they Induſtri<g ref="char:EOLhyphen"/>ous, who deſires to be ſerviceable in their Generations, cannot but Love and Honour that Government that preſerves them in the quiet and peaceable enjoyment of whats their own, free from Rapine and Spoil.</p>
+            <p>
+               <hi>Euſebius</hi> in his ſecond Book of the Life of <hi>Conſtantine,</hi> reports theſe 'words of that great Emperor, Let them which err with joy receive the like fruction of peace and quietneſs with the faithful, ſith the reſtoring of communion and ſociety may bring them into the right way of Truth, let none give moleſtation to any, let every one do as he determines in his mind.</p>
+            <p>For it may be ſafe in diverſity of perſwaſions, and it is alſo part of Chriſtian Religion, that the liberty of mens Conſciences ſhould be preſerved in all things, where God hath not ſet a limit, and this is his limitting power, to do good unto all, and to keep a Conſcience clear both towards God, and towards all men.</p>
+            <p>Now the end of the Commandment is Charity, out of a pure Heart, and of a good Conſcience, and of Faith unfeigned, 1 <hi>Tim.</hi> 1.5.</p>
+            <p>He that followeth after Righteouſneſs and Mercy, findeth Life, Righteouſneſs and Honour, <hi>Prov.</hi> 21.21.</p>
+            <p>Mercy and Truth preſerves the King, and his Throne is upholden by Mercy, <hi>Prov.</hi> 20.28.</p>
+            <p>If therefore you would that God ſhould preſerve the King, as for the mercy he hath ſhewed hitherto, and that you would have his Throne to be upholder, ſuffer not your ſelves to be over-awed, or grown upon by a falſe, mercileſs, perſecuting, furious people, whoſe converſations manifeſtly ſhew what it is their inclinations lead to (that is to ſay) Rapin and Spoil, for covetous envious ends, ſubver<g ref="char:EOLhyphen"/>ting the Laws to contrary ends, then they ſeem to have been made; as 22 <hi>Car</hi> 2. The Preface of which act is to prevent and ſuppreſs ſedi<g ref="char:EOLhyphen"/>tious Conventicles, and ſuch as at their Meetings, under colour of Religion, do or may contrive Inſurrections, as late experience hath ſhewn, yet hath the bent of that Act, by Coveteous men, out of meer envy (thereby rendering the Government cruel) been greatly imployed againſt a peaceable people, againſt whom neither plotting
+<pb n="14" facs="tcp:97064:8"/>of hurt againſt any, nor the leaſt ſhew of Sedition ever been, or proved againſt them.</p>
+            <p>Let it be obſerved what a great man of <hi>England</hi> once ſaid, diſcour<g ref="char:EOLhyphen"/>ſing of the hardſhip that many peaceable people in this Nation under<g ref="char:EOLhyphen"/>went by heard-hearted men, ſpoke on this wiſe, It is certainly a uneaſie kind of life to any man, that hath either Chriſtian Charity, good Nature, or Humanity, to ſee his fellow Subjects daily diveſt<g ref="char:EOLhyphen"/>ed, of their Liberties and Birth-rights, and miſerably thrown out of their Poſſeſſions and Free-Holds, only becauſe they cannot agree with others in ſome opinions and nicities of Religion, which their Conſciences will not give them leave to conſent too, and which even by the confeſſion of thoſe that would impoſe them, are no way ne<g ref="char:EOLhyphen"/>ceſſary to Salvation; and that there is in this Nation a groſs miſtake as to the point of Government, becauſe it makes every man ſafely to depend upon the wrong place, and not upon the Governours, not a man living well towards this civil Government eſtabliſhed by Law, but upon his being tranſported with Zeal, for every opinion that is held in the Church by thoſe that have power; and I conceive it is a miſtake in Religion, becauſe it is poſitively againſt the expreſs Do<g ref="char:EOLhyphen"/>ctrine of Chriſt Jeſus. Render to <hi>Caeſar</hi> the things that are <hi>Caeſars,</hi> and unto <hi>God</hi> the things that are <hi>Gods, Matt</hi> 22.21.</p>
+            <p>Doubtleſs to meet together to worſhip and wait ſingly upon God; is a chief thing that is due unto him.</p>
+            <p>Then they that feared the Lord, ſpake often one to another, and the Lord harkened and heard it, and a Book of remembrance was written before him for them that feared the Lord, and that thought upon his Name, <hi>Malachi</hi> 3.16.</p>
+            <p>
+               <hi>Pauls</hi> advice is to avoid fooliſh and unlearned Queſtions, knowing that they gender ſtrife, but the ſervant of the Lord muſt not ſtrive, but be gentle unto all men, apt to teach, patient, in meekneſs inſtructing thoſe that opoſe themſelves, if God peradventure will give them Repen<g ref="char:EOLhyphen"/>tance, to the acknowledging of the Truth; and that they may reco<g ref="char:EOLhyphen"/>ver themſelves out of the ſnare of the Devil, who are taken captive by him at his will, 2 <hi>Tim.</hi> 2.23, 24, 25, 26.</p>
+            <p>Then not to ruin any, nor take by violence and force their Goods or Cattels, nor throw them into Priſon, there to be deſtroyed if they have not their corrupt wills anſwered; but what will be the Portion, and Gods Sentence to all ſuch their Aiders and Aſſiſtants, if they re<g ref="char:EOLhyphen"/>pent not, is recorded <hi>Mat.</hi> 25.41, 42, 43, 44, 45. And verſ. 46. And
+<pb n="15" facs="tcp:97064:8"/>theſe ſhall go into everlaſting Puniſhment, but the Righteous into Life Eternal.</p>
+            <p>
+               <hi>Chriſoſtom</hi> ſaid, It is not the manner of the Children of God to Perſecute others to death about their Religion, but it hath been and is their condition to be put to Death themſelves for the Teſtimony of the Truth. Moreover (ſaid he) the ſhedding of blood about Reli<g ref="char:EOLhyphen"/>gion, is an evident token of Antichriſt, <hi>Relig. <g ref="char:V">Ʋ</g>riſ. p.</hi> 192.</p>
+            <p>
+               <hi>Hewardus</hi> ſaid, That the beſt writers of that time did agree in one opinion, and with <hi>Tertullian, Lactantius, Caſſidorus</hi> and <hi>Joſephus, &amp;c.</hi> That people muſt inform men to imbrace Religion with Reaſon, and not compel them by Violence.</p>
+            <p>Moſt certain it is, That, that Religion which is defended with Cruelty is not grounded upon the Word of God.</p>
+            <p>
+               <hi>La<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>antius</hi> ſaid, If you will with Blood, with Evil and with Tor<g ref="char:EOLhyphen"/>ments, defend the Worſhip, it ſhall not thereby be defended but polluted, <hi>lib.</hi> 5. <hi>chap.</hi> 20.</p>
+            <p>Where haſt thou ever read in thy days (ſaid <hi>Menn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) in the wri<g ref="char:EOLhyphen"/>tings of the Apoſtles, that Chriſt or the Apoſtles ever cryed out to the Magiſtrates for their Power, againſt them that would not hear their Doctrine, nor obey their words, I know certainly ſaid he, that where the Magiſtrate ſhall baniſh with the Sword, there is not the right knowledge of the Spiritual Word, nor Church of Chriſt, it is, <hi>Invocare brachium ſeculare.</hi>
+            </p>
+            <p>King <hi>James</hi> in his Speech to the Parliament, in the Year 1609 ſaid, That it is a pure rule in Divinity, that God never loves to plant his Church with Violence and Blood; and furthermore ſaid, It was uſually the condition of Chriſtians to be Perſecuted, but not to Per<g ref="char:EOLhyphen"/>ſecute.</p>
+            <p>King <hi>Charles</hi> the firſt in his Book called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Pag.</hi> 67. In his prayer to God, Thou ſeeſt how much cruelty among Chriſtians is acted under the colour of Religion, as if we could not be Chriſtians unleſs we Crucifie one another.</p>
+            <p>
+               <hi>Pag.</hi> 28. Make them at length ſeriouſly to conſider that nothing Violent or Injurious, can be Religious.</p>
+            <p>
+               <hi>Pag.</hi> 70. Sure in matters of Religion, thoſe Truths gain moſt up<g ref="char:EOLhyphen"/>on mens Judgements and Conſciences which are leaſt urged with ſe<g ref="char:EOLhyphen"/>cular violence, which weakens Truth with prejudices.</p>
+            <p>
+               <hi>Pag.</hi> 91, 92. In point of true Conſcientious tenderneſs, I have often declared how little I deſired my Laws and Scepter ſhould in<g ref="char:EOLhyphen"/>trench
+<pb n="16" facs="tcp:97064:9"/>on Gods ſoveraignity, which is the only King of mens Con<g ref="char:EOLhyphen"/>ſciences.</p>
+            <p>
+               <hi>Pag.</hi> 123. Nor do I deſire any man ſhould be ſubject unto me further then all of us may be ſubject unto God</p>
+            <p>
+               <hi>Pag.</hi> 76. The injoyning of Oathes, upon people muſt needs in things doubtful be Dangerous, as in things unlawful Damnable.</p>
+            <p>
+               <hi>Pag.</hi> 1. In his prayer, O, never ſuffer me for any reaſon of State, to go againſt the reaſon of Conſcience; which is highly to fight againſt thee the God of Reaſon and Judge of our Conſciences.</p>
+            <p>Clear up our underſtandings to ſee thy Truth both in Reaſon as Men and in Religion as Chriſtians.</p>
+            <p>
+               <hi>Pag.</hi> 164. Church affairs ſhould be managed neither with Tyranny Parity, nor Popularity neither People oppreſſed.</p>
+            <p>In his Advice to his Son <hi>Charles</hi> 2. Your Prerogative is beſt ſhewed and exerciſed in remitting rather then exacting the rigour of the Law, there being nothing worſe then legal Tyranny.</p>
+            <p>
+               <hi>Pag.</hi> 241. Alwayes kept up ſollid Piety, and thoſe fundamental Truths, which mend both hearts and lives of men, with impartial fa<g ref="char:EOLhyphen"/>vour and juſtice.</p>
+            <p>
+               <hi>Pag.</hi> 228. Keep you to true Principles of Piety, Vertue and Ho<g ref="char:EOLhyphen"/>nour, you ſhall never want a Kingdom.</p>
+            <p>
+               <hi>Pag.</hi> 346. It is indeed a ſad ſtate for any man to have his Enemies to be Accuſer, Parties and Judge.</p>
+            <p>From the afore recited Teſtimonies and Precepts I obſerve Four weighty and undeniable Concluſions.</p>
+            <p>
+               <hi>Firſt,</hi> That Mercy and Truth, are two of the main Pillars that ſup<g ref="char:EOLhyphen"/>port the King and Kingdom.</p>
+            <p>
+               <hi>Secondly,</hi> That Obedience to Magiſtrates ought to be for Conſcience ſake, and not for Fear or Wrath.</p>
+            <p>
+               <hi>Thirdly,</hi> That no Violence, or Injuries, ought to be inflicted, or done to any manner of Perſons, who makes Conſcience of what they do, and lives peaceably up to what it doth require becauſe good Con<g ref="char:EOLhyphen"/>ſcience is the bond of true Obedience, according to the Scriptures, therefore ought to be free and not compelled.</p>
+            <p>
+               <hi>Fourthly,</hi> That the Fundamental and good old Laws, are the King and Kingdoms beſt ſecurity, therefore not to be Sleighted, Contemned or Undervalued.</p>
+            <p>Oh therefore, you that would be accounted Loyal, let your love to the King be without diſſimulation; for if you love him, you will love
+<pb n="17" facs="tcp:97064:9"/>that which ſupports him, and by your Fruits you are, and will be manifeſt.</p>
+            <p>Wherefore doth the way of the Wicked Proſper, wherefore are all they Happy that deal very Treacheraoſly, <hi>Jer,</hi> 12.1.</p>
+            <p>If a man ſay he loves God, and hateth his Brother, he is a Lyer; for he that loveth not his Brother whom he hath ſeen, how can he love God whom he hath not ſeen, 1 <hi>John</hi> 4.20.</p>
+            <p>And this Commandment we have from him, That he who loveth God, Loveth his Brother alſo, <hi>verſ.</hi> 21.</p>
+            <p>It is the great Commandment Chriſt taught his Diſciples, Thou ſhalt love the Lord thy God with all thy Heart, and with all thy Soul, and with all thy Mind, this is the Firſt and Great Commandment, and the Second is like unto it; Thou ſhalt love thy Neighbour as thy ſelf; on theſe two Commandments hang all the Law and the Prophets, <hi>Mat.</hi> 22.37, 38, 39, 40.</p>
+            <p>This is the very perfection of Chriſtian Religion, the certain mark of a true Diſciple.</p>
+            <p>Charge them that be Rich in this World, that they be not high mind<g ref="char:EOLhyphen"/>ed, nor truſt in uncertain Riches, but in the living God, who giveth us richly all things to enjoy; that they do good, that they be rich in good Works, that they may lay hold on Eternal Life, 1 <hi>Tim.</hi> 6.17, 18, 19. Which that every one may certainly have an earneſt of here, and the full enjoyment of happineſs with God hereafter in that Life which ſhall never have an end, is the breathing deſire of,</p>
+            <closer>
+               <signed>
+                  <hi>William Holgate.</hi> A Priſoner in <hi>York-Caſtle,</hi> for believing that the Record of Scripture, and Chriſts Command therein recorded, ought to be obeyed.</signed>
+               <dateline>Written in <date>the 7th. Month 1684.</date>
+               </dateline>
+            </closer>
+            <epigraph>
+               <q>
+                  <hi>For Pride and Coveteouſneſs, Ambition, Envy, Revenge, Self-Love, Hypocriſie, Contempt of Goodneſs, Forced Opinion, theſe, and the like, do breed the Worlds Conſuſsion.</hi>
+               </q>
+            </epigraph>
+            <trailer>THE END.</trailer>
+            <pb n="17" facs="tcp:97064:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
